@@ -1,13 +1,12 @@
 # Smart Security Hub - Project Charter
-
-**Project Manager**: [YOUR NAME HERE]  
+  
 **Start Date**: December 13, 2024  
-**Target Completion**: February 7, 2025 (8 weeks)  
-**Budget**: $250 maximum
+**Target Completion**: February 21, 2025 (10 weeks)  
+**Budget**: ~$250
 
 ## 1. Executive Summary
 
-This project will design, prototype, and document a distributed IoT security system targeting budget-conscious students and renters. The goal is to demonstrate end-to-end product development skills applicable to hardware engineering, project management, and technical sales roles.
+This project will design, prototype, and document a distributed IoT security system targeting budget-conscious students and renters. The goal is to demonstrate end-to-end product development skills 
 
 ## 2. Problem Statement
 
@@ -21,7 +20,7 @@ No open-source, modular security solution exists that balances cost, ease-of-ins
 
 ### Primary Objectives:
 1. **Functional Prototype**: Working 3-node sensor system with cloud notifications
-2. **Cost Target**: Bill of materials under $200
+2. **Cost Target**: Bill of materials under $250
 3. **Documentation**: Professional-grade technical and business documentation
 4. **Performance**: <30 second alert latency, 99% uptime over 72-hour test
 
@@ -37,7 +36,7 @@ No open-source, modular security solution exists that balances cost, ease-of-ins
 |--------|--------|-------------------|
 | Alert Latency | <30 seconds | Sensor trigger to phone notification |
 | System Uptime | >99% | 72-hour continuous operation test |
-| Total Cost | <$200 | Actual component receipts |
+| Total Cost | <$250 | Actual component receipts |
 | Schedule Variance | ±1 week | Planned vs actual completion |
 | Code Quality | >80% test coverage | Unit + integration tests |
 | Documentation | 100% complete | Checklist of required docs |
