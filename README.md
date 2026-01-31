@@ -31,7 +31,7 @@ Open-source, self-hosted security system for <$200 with zero recurring fees. Mod
 - **Protocols**: MQTT, HTTPS, WebSockets
 
 ## Project Status
-🚧 **In Development** - Week 1: Planning & Requirements
+🚧 **In Development** - Week 2: architecture and component ordering
 
 ## Timeline
 - **Week 1-2**: Requirements, architecture, component ordering
@@ -55,7 +55,6 @@ Open-source, self-hosted security system for <$200 with zero recurring fees. Mod
 
 ## Author
 Finn Wenker - Computer Engineering Student  
-Building this to demonstrate full-stack IoT development and project management skills.
 
 ---
 📫https://www.linkedin.com/in/finn-wenker-557b86304/
