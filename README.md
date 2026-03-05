@@ -31,13 +31,7 @@ Open-source, self-hosted security system for <$200 with zero recurring fees. Mod
 - **Protocols**: MQTT, HTTPS, WebSockets
 
 ## Project Status
-🚧 **In Development** - Week 2: architecture and component ordering
-
-## Timeline
-- **Week 1-2**: Requirements, architecture, component ordering
-- **Week 3-4**: Hardware prototyping and firmware development
-- **Week 5-6**: Cloud integration and mobile app
-- **Week 7-8**: Testing, documentation, and polish
+🚧 **In Development**
 
 ## Business Case
 | Feature | This Project | Ring Alarm | SimpliSafe |
